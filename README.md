@@ -1,1 +1,2 @@
 springMVC_memo01
+@Autowired
