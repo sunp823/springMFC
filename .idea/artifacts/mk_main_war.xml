@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mk_main:war">
+    <output-path>$PROJECT_DIR$/mk_main/target</output-path>
+    <root id="archive" name="hzsunpeng_mkyongMain.war">
+      <element id="artifact" artifact-name="mk_main:war exploded" />
+    </root>
+  </artifact>
+</component>
